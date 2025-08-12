@@ -7,7 +7,6 @@ http://www.yanhuangxueyuan.com/threejs/docs/index.html#manual/zh/introduction/In
 npm 中 Three的下载路径:
 https://www.npmjs.com/package/three
 
-![map](https://github.com/user-attachments/assets/e32ee36e-c0f6-4d36-8e7d-a66dd8967529)
 ![WechatIMG325_副本](https://github.com/user-attachments/assets/58318f8e-fb30-4c3d-bff3-e0835b6da98f)
 ![WechatIMG324_副本](https://github.com/user-attachments/assets/35c705be-4d91-43ab-a3e4-03ac5c2e9532)
 
